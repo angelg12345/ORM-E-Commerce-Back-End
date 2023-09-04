@@ -28,6 +28,7 @@ Product.init(
       isDecimal: true
     }
    },
+  
    category_id: {
     type: DataTypes.INTEGER,
     references: {
